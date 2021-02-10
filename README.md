@@ -1,1 +1,1 @@
-TinDog Starting Files
+Project from the Angela Yu Course
